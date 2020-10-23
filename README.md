@@ -1,1 +1,1 @@
-# MOMA_predictor
+# MOMAPredictor
